@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "951318427525",
+    "firebase_url": "https://locationaware-d5c30.firebaseio.com",
+    "project_id": "locationaware-d5c30",
+    "storage_bucket": "locationaware-d5c30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951318427525:android:7ac7a2ffb8190c2e",
+        "android_client_info": {
+          "package_name": "shafir.irena.locationaware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951318427525-9tn5fma2b9til050j82i8kv9f276hev5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shafir.irena.locationaware",
+            "certificate_hash": "f78ded3b4c32550fe4f0a33586d7e57a05821825"
+          }
+        },
+        {
+          "client_id": "951318427525-a460iqvq5j8vgosqi20m4ikdcljeeean.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNycjw6w3E8jvxYX5UApU0TayJjuSgBmo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951318427525-a460iqvq5j8vgosqi20m4ikdcljeeean.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
